@@ -1,0 +1,15 @@
+C:\Users\18283\Desktop\Local Portfolio\Coding_Languages\C#\TicTacToe\bin\Debug\net9.0\Coding_Languages.exe
+C:\Users\18283\Desktop\Local Portfolio\Coding_Languages\C#\TicTacToe\bin\Debug\net9.0\Coding_Languages.deps.json
+C:\Users\18283\Desktop\Local Portfolio\Coding_Languages\C#\TicTacToe\bin\Debug\net9.0\Coding_Languages.runtimeconfig.json
+C:\Users\18283\Desktop\Local Portfolio\Coding_Languages\C#\TicTacToe\bin\Debug\net9.0\Coding_Languages.dll
+C:\Users\18283\Desktop\Local Portfolio\Coding_Languages\C#\TicTacToe\bin\Debug\net9.0\Coding_Languages.pdb
+C:\Users\18283\Desktop\Local Portfolio\Coding_Languages\C#\TicTacToe\obj\Debug\net9.0\Coding_Languages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18283\Desktop\Local Portfolio\Coding_Languages\C#\TicTacToe\obj\Debug\net9.0\Coding_Languages.AssemblyInfoInputs.cache
+C:\Users\18283\Desktop\Local Portfolio\Coding_Languages\C#\TicTacToe\obj\Debug\net9.0\Coding_Languages.AssemblyInfo.cs
+C:\Users\18283\Desktop\Local Portfolio\Coding_Languages\C#\TicTacToe\obj\Debug\net9.0\Coding_Languages.csproj.CoreCompileInputs.cache
+C:\Users\18283\Desktop\Local Portfolio\Coding_Languages\C#\TicTacToe\obj\Debug\net9.0\Coding_Languages.sourcelink.json
+C:\Users\18283\Desktop\Local Portfolio\Coding_Languages\C#\TicTacToe\obj\Debug\net9.0\Coding_Languages.dll
+C:\Users\18283\Desktop\Local Portfolio\Coding_Languages\C#\TicTacToe\obj\Debug\net9.0\refint\Coding_Languages.dll
+C:\Users\18283\Desktop\Local Portfolio\Coding_Languages\C#\TicTacToe\obj\Debug\net9.0\Coding_Languages.pdb
+C:\Users\18283\Desktop\Local Portfolio\Coding_Languages\C#\TicTacToe\obj\Debug\net9.0\Coding_Languages.genruntimeconfig.cache
+C:\Users\18283\Desktop\Local Portfolio\Coding_Languages\C#\TicTacToe\obj\Debug\net9.0\ref\Coding_Languages.dll
